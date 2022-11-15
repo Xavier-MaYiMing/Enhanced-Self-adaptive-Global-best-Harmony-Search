@@ -13,7 +13,7 @@
 | ub        | The upper bound (list)                            |
 | pos       | The set of harmonies (list)                       |
 | score     | The score of harmonies (list)                     |
-| dim       | Dimension (list)                                  |
+| dim       | Dimension                                 |
 | gbest     | The score of the global best harmony              |
 | gbest_pos | The position of the global best harmony (list)    |
 | iter_best | The global best score of each iteration (list)    |
